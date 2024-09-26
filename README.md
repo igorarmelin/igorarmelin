@@ -4,8 +4,8 @@ Sou um desenvolvedor front-end apaixonado por tecnologia e por criar soluções 
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/igorarmelin/)
-- [Portfólio](https://igorarmelin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorarmelin/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://igorarmelin.vercel.app/)
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -40,3 +40,4 @@ Sou um desenvolvedor front-end apaixonado por tecnologia e por criar soluções 
 ### ☁️ Serviços de Nuvem e Observabilidade
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
